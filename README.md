@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 -->
 
 ---------------------
-<img src="https://21066571.fs1.hubspotusercontent-na1.net/hubfs/21066571/hiking.jpg" width="400" height="200" />
 
 ### I'm Danielle, Data Analyst and hiking enthusiast from Utah 🥾
 ---------------------
